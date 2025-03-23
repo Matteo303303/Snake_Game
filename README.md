@@ -4,7 +4,7 @@ Snake Game in Java
 
 This repository contains a Snake Game implemented in Java using Swing for the GUI. The project simulates the classic Snake game where the player navigates the snake to eat apples and grow longer while avoiding collisions.
 
-Features
+## Features
 
 Classic Snake Gameplay: Control the snake to collect apples and increase its length.
 
@@ -16,7 +16,7 @@ Scoring System: Keeps track of the number of apples eaten.
 
 Game Over Screen: Displays score upon game termination.
 
-How to Play
+## How to Play
 
 Start the Game: Launch the Snake game by running the provided Java program.
 
@@ -32,11 +32,11 @@ Right Arrow: Move Right
 
 Objective: Eat the apples and avoid crashing into the walls or the snake's own body.
 
-Controls
+## Controls
 
 Arrow Keys: Navigate the snake.
 
-How to Run the Game
+## How to Run the Game
 
 Ensure you have Java installed on your system.
 
@@ -58,7 +58,7 @@ Apple Consumption: If the snake eats an apple, it grows in length and updates th
 
 Game Over: Displays a "Game Over" message and the player's score when the game ends.
 
-Customization
+## Customization
 
 Screen Size: Modify SCREEN_WIDTH and SCREEN_HEIGHT in GamePanel.java.
 
@@ -66,11 +66,11 @@ Snake Speed: Adjust the DELAY constant to change game speed.
 
 Snake Color: Customize snake body and apple colors in the draw method.
 
-Dependencies
+## Dependencies
 
 Java SE Development Kit (JDK) 8 or newer
 
-Contribution
+## Contribution
 
 Feel free to fork the repository and submit pull requests for improvements and new features.
 
